@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chingkheinganba luwangthem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
+<a href="https://x.com/chingkhei_X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chingkheinganba-luwangthem-4a6410296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
 <a href="https://kaggle.com/chingkheinganba luwangthem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
 <a href="https://fb.com/chingkheinganba luwangthem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
