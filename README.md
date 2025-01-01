@@ -1,4 +1,4 @@
-![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Luwangthem Chingkheinganba Meitei</h1>
 <h3 align="center">A passionate in upgrading new skills</h3>
 <img align="right" alt="coding gif" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
