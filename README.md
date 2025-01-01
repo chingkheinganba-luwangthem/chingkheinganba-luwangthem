@@ -1,6 +1,6 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Luwangthem Chingkheinganba Meitei</h1>
-<h3 align="center">A passionate in upgrading new skills</h3>
+<h3 align="center">Full Stack Developer skilled in front-end and back-end, creating seamless web and mobile solutions</h3>
 
 
 
