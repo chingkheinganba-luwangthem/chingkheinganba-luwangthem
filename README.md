@@ -14,7 +14,7 @@
 <a href="https://kaggle.com/chingkheinganba luwangthem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
 <a href="https://fb.com/chingkheinganba luwangthem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
 <a href="https://instagram.com/chingkheinganba_luwangthem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chingkheinganba_luwangthem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chingkheinganba luwangthem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@chingkheinganbaluwangthem8596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chingkheinganba luwangthem" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chingkheinganba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chingkheinganba" height="30" width="40" /></a>
 </p>
 
