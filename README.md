@@ -45,5 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chingkheinganba-luwangthem&show_icons=true&locale=en" alt="chingkheinganba-luwangthem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chingkheinganba-luwangthem&show_icons=true&" alt="chingkheinganba-luwangthem" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1/?user=chingkheinganba-luwangthem&" alt="chingkheinganba-luwangthem" /></p>
+
 
